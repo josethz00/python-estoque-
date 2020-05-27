@@ -1,0 +1,5 @@
+x = inteiro(1)
+
+enquanto x for menor ou igual a 20:
+	mostra na tela (x)
+	x = x+1

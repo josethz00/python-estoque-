@@ -1,0 +1,15 @@
+função ex5(inteiro:number):
+    se number está em (0, 1, 2, 4):
+        x = 0
+        enquanto x < number:
+            se resto da divisão de x == 0:
+                mostrar na tela (x)
+            x= x+1
+    se não se:
+        mostrar na tela ('O número deve estar entre 0 e 5')
+
+
+num = inteiro(entrada de dados('Digite um número entre 0 e 5...     '))
+ler num
+
+função ex5(inteiro:num)

@@ -1,0 +1,12 @@
+função ex3(inteiro:number, inteiro:number2):
+	res = valor_absoluto(number - number2)  #módulo da subtração
+	enquanto res < number:
+		mostra na tela(res)
+		res = res+1
+
+num = inteiro(entrada de dados('Digite o número 1...	'))
+ler num
+num2 = inteiro(entrada de dados('Digite o número 2...	'))
+ler num2
+
+ex3(inteiro:num, inteiro:arr)

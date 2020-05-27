@@ -1,0 +1,11 @@
+função ex4(inteiro:number):
+    x=0
+    para cada x entre(1,11):
+        mostrar na tela (number multiplicado por x)
+
+
+
+num = decimal(entrada de dados('Digite um número...    '))
+ler num
+
+ex4(decimal:num)

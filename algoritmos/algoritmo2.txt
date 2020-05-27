@@ -1,0 +1,26 @@
+
+função ex2(inteiro:number, inteiro:array):
+	se number > 20:
+		
+		res = number - 20
+		array = res
+		enquanto array<number:
+			mostra na tela (array)
+			array = array + 1
+	
+	se não number == 20:
+			mostra na tela (0)
+	se não se:
+
+		res = 20 - number
+		array = res
+		enquanto array < 20:
+			mostra na tela (array)
+			array = array+1
+
+num = inteiro(entrada de dados('Digite um número...	'))
+ler num
+arr = 0
+ler arr
+
+ex2(num, arr)

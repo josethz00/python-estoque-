@@ -1,0 +1,15 @@
+
+função ex6(inteiro:number):
+    se number>20:
+        enquanto number>1:
+            mostrar na tela (number)
+            number= number-1
+    se não se:
+        mostrar na tela ('O número de entrada deve ser maior que 20')
+
+
+num = inteiro(entrada de dados('Digite o número...   '))
+ler num
+
+ex6(inteiro:num)
+	
